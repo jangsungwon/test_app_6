@@ -1,3 +1,5 @@
 # README
 
-push test
+* push test
+* pages controller
+* scaffold generator
